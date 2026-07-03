@@ -187,4 +187,4 @@ python inference.py
 Bachelor of Engineering (B.E.) – Computer Science & Engineering
 
 - 📧 Email: shashankzende179@gmail.com
-- 💻 GitHub: https://github.com/shashank-zende-179
+
