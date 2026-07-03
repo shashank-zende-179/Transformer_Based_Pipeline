@@ -182,7 +182,9 @@ python inference.py
 
 # 👨‍💻 Author
 
-**Shashank Zende **
+**Shashank Zende**
 
--Bachelor of Engineering(BE)– Computer Science & Engineering
--Email-shashankzende179@gmail.com
+Bachelor of Engineering (B.E.) – Computer Science & Engineering
+
+- 📧 Email: shashankzende179@gmail.com
+- 💻 GitHub: https://github.com/shashank-zende-179
