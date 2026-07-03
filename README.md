@@ -42,11 +42,9 @@ The proposed architecture consists of three major components:
 
 ## 📌 System Architecture Diagram
 
-> Replace the image below with your architecture diagram.
-
 ```markdown
 <p align="center">
-  <img src="assets/architecture.png" alt="System Architecture" width="900">
+<img src="assets/architecture.png" width="900">
 </p>
 ```
 
