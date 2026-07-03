@@ -158,7 +158,7 @@ Transformer_Based_Pipeline/
 │   └── demo.mp4
 │
 └── README.md
-
+```
 ---
 
 # ⚙️ Installation
