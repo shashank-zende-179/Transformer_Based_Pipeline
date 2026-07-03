@@ -41,13 +41,10 @@ The proposed architecture consists of three major components:
 * Displays or stores the enhanced image for visualization, 3D mapping, AI-based evaluation, and lunar surface analysis.
 
 ## 📌 System Architecture Diagram
-
-```markdown
-<p align="center">
-<img src="assets/architecture.png" width="900">
+---
+<p align="center"> 
+        <img src="assets/architecture.png" alt="System Architecture" width="900"> 
 </p>
-```
-
 ---
 
 # 🔄 Pipeline
