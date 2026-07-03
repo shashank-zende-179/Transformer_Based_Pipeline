@@ -103,12 +103,8 @@ The proposed pipeline significantly improves image illumination, removes residua
 ---
 
 # 🎥 Demonstration Video
-
-> Add your project demonstration video or GIF here.
-
-```markdown
+---
 [Project Demonstration](videos/demo.mp4)
-```
 
 ---
 
