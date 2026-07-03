@@ -86,14 +86,24 @@ User Application Layer
 The proposed pipeline significantly improves image illumination, removes residual noise, and preserves important lunar surface details. The output demonstrates better visibility and image quality compared to the original low-light image.
 
 ## 📌 Output Comparison
+---
 
-> Add your output images below.
+<table>
+<tr>
+<td align="center"><b>Original Image</b></td>
+<td align="center"><b>Final Output</b></td>
+</tr>
 
-```markdown
-| Original Image  | Final Output (LLFormer + Restormer) |
-|----------------|-----------------|-------------------------------------|
-| ![](assets/results/input.png) |![](assets/results/final_output.png) |
-```
+<tr>
+<td>
+<img src="assets/results/input.png" width="400">
+</td>
+
+<td>
+<img src="assets/results/final_output.png" width="400">
+</td>
+</tr>
+</table>
 
 ---
 
