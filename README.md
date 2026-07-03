@@ -161,7 +161,7 @@ Transformer_Based_Pipeline/
 ```
 ---
 
-# ⚙️# Execution Steps
+# ⚙️ Execution Steps
 
 Follow the steps below to set up and execute the Transformer-Based Pipeline.
 
