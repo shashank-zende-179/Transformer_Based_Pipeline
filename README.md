@@ -90,9 +90,9 @@ The proposed pipeline significantly improves image illumination, removes residua
 > Add your output images below.
 
 ```markdown
-| Original Image | LLFormer Output | Final Output (LLFormer + Restormer) |
+| Original Image  | Final Output (LLFormer + Restormer) |
 |----------------|-----------------|-------------------------------------|
-| ![](assets/results/input.png) | ![](assets/results/llformer_output.png) | ![](assets/results/final_output.png) |
+| ![](assets/results/input.png) |![](assets/results/final_output.png) |
 ```
 
 ---
