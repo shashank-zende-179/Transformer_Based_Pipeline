@@ -104,9 +104,7 @@ The proposed pipeline significantly improves image illumination, removes residua
 
 # 🎥 Demonstration Video
 ---
-<video controls>
-  <source src="videos/demo.mp4" type="video/mp4">
-</video>
+**[Watch Project Demo](videos/demo.mp4)**
 
 ---
 
