@@ -116,19 +116,48 @@ Transformer_Based_Pipeline/
 ├── assets/
 │   ├── architecture.png
 │   └── results/
+│       ├── input.png
+│       └── final_output.png
+│
+├── configs/
+│   ├── __init__.py
+│   ├── config.py
+│   └── __pycache__/
+│
+├── data/
+│   ├── train/
+│   ├── val/
+│   ├── test/
+│   └── temp
+│
+├── models/
+│   ├── __init__.py
+│   ├── LLFormer.py
+│   ├── hybrid_model.py
+│   ├── restormer/
+│   └── __pycache__/
+│
+├── outputs3/
+│
+├── scripts/
+│   ├── __init__.py
+│   ├── train.py
+│   ├── test.py
+│   ├── inference.py
+│   └── __pycache__/
+│
+├── utils/
+│   ├── __init__.py
+│   ├── dataloader.py
+│   ├── transforms.py
+│   ├── loss.py
+│   ├── metrics.py
+│   └── __pycache__/
 │
 ├── videos/
 │   └── demo.mp4
 │
-├── notebooks/
-├── models/
-├── outputs/
-├── train.py
-├── test.py
-├── inference.py
-├── requirements.txt
 └── README.md
-```
 
 ---
 
