@@ -161,52 +161,116 @@ Transformer_Based_Pipeline/
 ```
 ---
 
-# ⚙️ Installation
+# ⚙️# Execution Steps
 
-### Clone the repository
+Follow the steps below to set up and execute the Transformer-Based Pipeline.
+
+## Step 1: Clone the Repository
 
 ```bash
 git clone https://github.com/shashank-zende-179/Transformer_Based_Pipeline.git
-```
-
-### Navigate to the project folder
-
-```bash
 cd Transformer_Based_Pipeline
 ```
 
-### Create a virtual environment
+---
+
+## Step 2: Create a Virtual Environment (Optional but Recommended)
+
+### Windows
 
 ```bash
 python -m venv venv
-```
-
-### Activate the virtual environment
-
-**Windows**
-
-```bash
 venv\Scripts\activate
 ```
 
-**Linux / macOS**
+### Linux/macOS
 
 ```bash
+python3 -m venv venv
 source venv/bin/activate
 ```
 
-### Install dependencies
+---
+
+## Step 3: Install Required Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Run the project
+---
 
-```bash
-python inference.py
+## Step 4: Prepare the Dataset
+
+Organize the dataset in the following directory structure:
+
+```text
+data/
+├── train/
+├── val/
+└── test/
 ```
 
+Place the corresponding training, validation, and testing images into their respective folders.
+
+---
+
+## Step 5: Configure the Project
+
+Modify the configuration file according to your requirements.
+
+```text
+configs/config.py
+```
+
+Configure the following parameters as needed:
+
+- Dataset paths
+- Batch size
+- Learning rate
+- Number of epochs
+- Image size
+- Model parameters
+
+---
+
+## Step 6: Train the Transformer-Based Pipeline
+
+Run the following command to train the model:
+
+```bash
+python scripts/train.py
+```
+
+This script performs the following tasks:
+
+- Loads the dataset
+- Applies image preprocessing
+- Initializes LLFormer and Restormer
+- Trains the hybrid transformer-based pipeline
+- Saves the trained model checkpoints
+
+---
+
+## Step 7: Evaluate the Model
+
+After training, evaluate the model using:
+
+```bash
+python scripts/test.py
+```
+
+This script evaluates the trained model on the test dataset and computes the image restoration performance.
+
+---
+
+## Step 8: Run Inference
+
+To enhance a new low-light image, execute:
+
+```bash
+python scripts/inference.py
+```
 ---
 
 # 👨‍💻 Author
