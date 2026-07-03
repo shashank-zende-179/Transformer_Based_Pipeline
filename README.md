@@ -182,8 +182,7 @@ python inference.py
 
 # 👨‍💻 Author
 
-**Shashank Zende Patil**
+**Shashank Zende **
 
-Bachelor of Technology – Computer Science & Engineering
-
-**Areas of Interest:** Artificial Intelligence • Deep Learning • Computer Vision • Image Processing • Python
+Bachelor of Engineering(BE)– Computer Science & Engineering
+Email-shashankzende179@gmail.com
