@@ -184,5 +184,5 @@ python inference.py
 
 **Shashank Zende **
 
-Bachelor of Engineering(BE)– Computer Science & Engineering
-Email-shashankzende179@gmail.com
+-Bachelor of Engineering(BE)– Computer Science & Engineering
+-Email-shashankzende179@gmail.com
