@@ -46,7 +46,7 @@ The proposed architecture consists of three major components:
 
 ```markdown
 <p align="center">
-  <img src="assets/architecture.png" alt="System Architecture" width="900">
+  <img src="assets/results/architecture.png" alt="System Architecture" width="900">
 </p>
 ```
 
