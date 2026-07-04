@@ -1,4 +1,5 @@
-# 🌙 Low-Light Image Enhancement and Noise Removal for Lunar Mapping
+# 🌙 Low light image enhancement and noise removal for Lunar mapping
+
 
 > A **transformer-based pipeline** that combines **LLFormer** and **Restormer** to enhance low-light lunar images captured from Permanently Shadowed Regions (PSRs). The pipeline first enhances image illumination using LLFormer and then removes residual noise using Restormer, producing high-quality images for lunar surface analysis and mapping.
 
